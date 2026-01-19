@@ -3,7 +3,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/mon_portefolio.html"
   status = 200
 
 [build.environment]
